@@ -1,7 +1,7 @@
 # Custom 3d printed sign with addresable leds
 ![Snake 1](http://albertgonzalez.coffee/projects/elfuns_sign/img/header_small.jpg)
 
-__Attiny85__ firmware for a 3d-printed sign with a single strip of __ws2812-based addresable leds__. Allows multiple "modes" that can display different animations (that can also be changed by pressing a button attached to PB2 - _INT0 pin_).
+__Attiny85__ firmware for a 3d-printed sign with a single strip of __ws2812-based addresable leds__. Allows multiple "modes" that can display different animations (available by pressing a button attached to PB2 - _INT0 pin_).
 
 More info on [my hackaday.io project page](https://hackaday.io/project/182790/details/).
 
